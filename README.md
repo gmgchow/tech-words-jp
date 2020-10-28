@@ -21,7 +21,7 @@ Please feel free to contribute but it would be much appreciated if you follow th
 * 伝授（でんじゅ）initiation, instruction
 * 命名規則（めいめいきそく）naming convention
 
-### System/Operations
+### System & Operations
 
 * 復元（ふくげん）restoration
 * 併用（へいよう）use together at the same time
@@ -37,6 +37,7 @@ Please feel free to contribute but it would be much appreciated if you follow th
 * 流出（りゅうしゅつ）leak
 * 窃取（せっしゅ）theft, stealing
 * 正当性（せいとうせい）legal, proper
+* 照合（しょうごう）comparison
 * 真正（しんせい）authentic, true
 * 識別（しきべつ）discriminate, discern
 * 識別子（しきべつし）identifier
@@ -44,8 +45,6 @@ Please feel free to contribute but it would be much appreciated if you follow th
 * 割り当てる（わりあてる）to assign, to allocate
 
 ### Testing
-
-* 照合（しょうごう）comparison
 
 ### Other/Misc.
 
